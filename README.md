@@ -1,6 +1,6 @@
 # Primeira Galeria
 
- ![]()
+ ![](./fotos/preview.png)
 
  ## Projeto
  Uma simples galeria com 3 fotos de altura 3 fotos de largura
